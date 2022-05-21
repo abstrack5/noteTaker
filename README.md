@@ -1,5 +1,5 @@
 # Note Taker 
-https://img.shields.io/github/license/abstrack5/noteTaker
+![GitHub](https://img.shields.io/github/license/abstrack5/noteTaker)
 
 ## Copyright
 Copyright (c) 2022 AAhmadi
