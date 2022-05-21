@@ -1,0 +1,23 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abstrack5/noteTaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abstrack5/noteTaker/issues"
+  },
+  "homepage": "https://github.com/Abstrack5/noteTaker#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jest": "^28.1.0"
+  }
+}
