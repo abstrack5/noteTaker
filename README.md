@@ -11,7 +11,7 @@ An application used to write and save notes. The app uses Express.js and will sa
 * node/express
 
 ## Website Link
-Click [here](https://arcane-garden-60766.herokuapp.com/) to view the deployed application.
+Click [here](https://arcane-garden-60766.herokuapp.com/){:target="_blank" rel="noopener"} to view the deployed application.
 
 ## Copyright
 Copyright (c) 2022 AAhmadi
