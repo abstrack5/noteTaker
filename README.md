@@ -1,6 +1,18 @@
 # Note Taker 
 ![GitHub](https://img.shields.io/github/license/abstrack5/noteTaker)
 
+# Description
+An application used to write and save notes. The app uses Express.js and will save and return user generated notes.
+
+## Technologies
+* HTML
+* CSS
+* Javascript
+* node/express
+
+## Website Link
+Click [here](https://arcane-garden-60766.herokuapp.com/) to view the deployed application.
+
 ## Copyright
 Copyright (c) 2022 AAhmadi
 
