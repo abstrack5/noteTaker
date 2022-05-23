@@ -12,8 +12,9 @@ An application used to write and save notes. The app uses Express.js and will sa
 Click [me](https://arcane-garden-60766.herokuapp.com/) to view the deployed application.
 
 ## Preview
-screenshot1.JPG
-screenshot2.JPG
+![screenshot1](https://user-images.githubusercontent.com/100798134/169731213-97f3c83c-f313-49c7-b795-78e25b5f8d72.JPG)
+![screenshot2](https://user-images.githubusercontent.com/100798134/169731214-fb7a64df-20cb-49bb-9488-7f9190fba3cb.JPG)
+
 
 ## Copyright ![GitHub](https://img.shields.io/github/license/abstrack5/noteTaker)
 Copyright (c) 2022 AAhmadi
