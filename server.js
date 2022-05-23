@@ -24,9 +24,9 @@ app.post("/api/notes", (req, res) => {
       throw err.console.err(err);
     } else {
       const noteObj = {
-        "title": req.body.title,
-        "text": req.body.text,
-        "id": uuid()
+        title: req.body.title,
+        text: req.body.text,
+        id: uuid()
       };
       notes.push(noteObj);
       const newNote = JSON.stringify(notes);
